@@ -1,1 +1,1 @@
-/kill
+/screamer_builtin
