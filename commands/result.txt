@@ -1,1 +1,42 @@
-⏳ Выполняется: /processes
+[21:24:25] /processes
+
+📋 
+€¬п ®Ўа §                      PID €¬п бҐббЁЁ          ь бҐ ­б        Џ ¬пвм
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         8 ЉЃ
+System                           4 Services                   0     3я848 ЉЃ
+Registry                       148 Services                   0    79я384 ЉЃ
+smss.exe                       660 Services                   0       964 ЉЃ
+csrss.exe                      916 Services                   0     4я332 ЉЃ
+csrss.exe                     1016 Console                    1     5я088 ЉЃ
+wininit.exe                    444 Services                   0     4я764 ЉЃ
+services.exe                   716 Services                   0     8я880 ЉЃ
+lsass.exe                      816 Services                   0    25я588 ЉЃ
+winlogon.exe                  1096 Console                    1     8я748 ЉЃ
+svchost.exe                   1220 Services                   0    27я816 ЉЃ
+fontdrvhost.exe               1248 Console                    1    19я632 ЉЃ
+fontdrvhost.exe               1256 Services                   0     2я576 ЉЃ
+svchost.exe                   1356 Services                   0    15я324 ЉЃ
+svchost.exe                   1400 Services                   0     9я000 ЉЃ
+svchost.exe                   1480 Services                   0     3я912 ЉЃ
+svchost.exe                   1512 Services                   0     8я080 ЉЃ
+svchost.exe                   1520 Services                   0    10я640 ЉЃ
+dwm.exe                       1588 Console                    1    86я948 ЉЃ
+svchost.exe                   1648 Services                   0     4я996 ЉЃ
+svchost.exe                   1768 Services                   0    13я472 ЉЃ
+svchost.exe                   1840 Services                   0    14я736 ЉЃ
+svchost.exe                   1880 Services                   0    12я044 ЉЃ
+WUDFHost.exe                  1900 Services                   0     6я588 ЉЃ
+svchost.exe                   1920 Services                   0     5я940 ЉЃ
+svchost.exe                   1980 Services                   0     5я892 ЉЃ
+svchost.exe                   2036 Services                   0    10я284 ЉЃ
+NVDisplay.Container.exe       1020 Services                   0    30я672 ЉЃ
+svchost.exe                   1764 Services                   0     9я504 ЉЃ
+svchost.exe                   2128 Services                   0     8я772 ЉЃ
+svchost.exe                   2232 Services                   0     4я992 ЉЃ
+amdfendrsr.exe                2240 Services                   0     5я544 ЉЃ
+atiesrxx.exe                  2256 Services                   0     4я972 ЉЃ
+svchost.exe                   2376 Services                   0    10я400 ЉЃ
+svchost.exe                   2508 Services                   0    17я644 ЉЃ
+svchost.exe                   2528 Services                   0     8я224 ЉЃ
+svchost.exe                   2580 Services                   0     5я492
