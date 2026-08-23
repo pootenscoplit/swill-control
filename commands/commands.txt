@@ -1,1 +1,1 @@
-/screenshot
+/msg 12333
