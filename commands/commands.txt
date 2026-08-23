@@ -1,1 +1,1 @@
-/screamer_builtin
+/msg 132
