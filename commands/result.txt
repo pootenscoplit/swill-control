@@ -1,1 +1,16 @@
-⏳ Выполняется: /info
+[14:12:39] /info
+
+📡 ДАННЫЕ О СИСТЕМЕ:
+{
+  "hostname": "matveyPC",
+  "username": "matvey",
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "cwd": "C:\\Windows\\system32",
+  "ip": "192.168.100.10",
+  "external_ip": "176.113.247.114",
+  "city": "Lugansk",
+  "region": "Novosibirsk Oblast",
+  "country": "Russia",
+  "isp": "Likhno Dmitriy trading as Luganet"
+}
