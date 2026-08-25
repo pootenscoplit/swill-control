@@ -1,1 +1,3 @@
-⏳ Выполняется: /scream
+[14:13:28] /scream
+
+❌ Ошибка: HTTPSConnectionPool(host='www.myinstants.com', port=443): Read timed out.
